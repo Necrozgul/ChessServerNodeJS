@@ -1,0 +1,10 @@
+NodeJS tutorial: 
+https://www.youtube.com/watch?v=Z9PLPE0VWVI&list=PLx3k0RGeXZ_wZ_gYpYXfH6FTK7e0cDL0k&index=5
+
+npm init
+
+node_modules letöltése a package.json-ból.
+::: npm i;
+
+Start :
+node server.js
